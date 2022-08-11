@@ -1,0 +1,13 @@
+p {
+    color: #18d46f;
+}
+p:hover {
+    color: gray;
+}
+.bold-red {
+    color: red;
+    font-weight: bold;
+}
+.big {
+    font-size: 2rem;
+}
